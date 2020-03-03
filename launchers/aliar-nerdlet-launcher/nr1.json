@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "aliar-nerdlet-launcher",
+    "displayName": "AliarNerdletLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "aliar-nerdlet-nerdlet"
+}
